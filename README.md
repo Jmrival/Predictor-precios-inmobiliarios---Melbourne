@@ -9,4 +9,4 @@ Incluye:
 * Testeo y seleccion de modelos
 * Optimización de modelos
 
-Se inlcuye un Notebook anexo en el cual incorpor información de Airbnb de Melbourne para enriquecer el dataset y generar atributos de contexto geográfico para las propiedades publicadas.
+Se inlcuye también un Notebook anexo en el cual incorpor información de Airbnb de Melbourne para enriquecer el dataset y generar atributos de contexto geográfico para las propiedades publicadas, así como los datasets utilizados y un geojson con los límites barriales.
